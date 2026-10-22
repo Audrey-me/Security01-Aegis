@@ -1,17 +1,5 @@
-This project is a sample prototype for a fictitious Neobank offering a Spend & Save account for kids and youth.
+# Security01-Aegis
+An automated security pipeline for Skyline Financial Technology using Github Actions.
 
-Project: CPost, a fictitious neobank for the next generation
-
-CPost Neobank Demo link: https://cpost-kids-banking.vercel.app/
-
-CPost Neobank Demo includes:
-- Landing pages: Home, Spend & Save Journey
-- Customer Onboarding Journey: Sign Up (4 steps), Sign In
-- New Bank Account page: Account snapshot, notification, transactions
- 
-This project is built with:
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+# Base Repository
+The starter repository was cloned from https://github.com/arorasanj/cpost-kids-banking
