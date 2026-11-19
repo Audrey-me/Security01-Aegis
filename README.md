@@ -11,13 +11,13 @@ The starter repository was cloned from https://github.com/arorasanj/cpost-kids-b
     docker compose up -d db
     docker compose ps          
 ```
-2. Populate the empty database with tables by running the code in the server folder
+2. Populate the empty database with tables by running the code in the server folder from a new terminal
 ```
     cd server
     npm run dev
 ```
 
-3. Run the Frontend
+3. Open a new terminal and run the Frontend code
 ```
     cd client
     npm install
